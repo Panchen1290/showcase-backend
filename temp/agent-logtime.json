@@ -1,0 +1,658 @@
+{
+  "aescobar": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   10:28 am",
+        "End Time": "Apr 23 2025   04:52 pm",
+        "Duration": "6:23:36",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   10:28 am",
+        "End Time": "Apr 23 2025   04:52 pm",
+        "Duration": "6:23:36"
+      }
+    ]
+  },
+  "waguilar": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   11:03 am",
+        "End Time": "Apr 23 2025   09:05 pm",
+        "Duration": "10:01:11",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   11:04 am",
+        "End Time": "Apr 23 2025   11:07 am",
+        "Duration": "0:03:01",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:17 am",
+        "End Time": "Apr 23 2025   11:20 am",
+        "Duration": "0:02:22",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:42 am",
+        "End Time": "Apr 23 2025   11:50 am",
+        "Duration": "0:08:41",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:55 am",
+        "End Time": "Apr 23 2025   01:49 pm",
+        "Duration": "1:54:26",
+        "Disposition": "Meeting"
+      },
+      {
+        "Start Time": "Apr 23 2025   01:49 pm",
+        "End Time": "Apr 23 2025   01:51 pm",
+        "Duration": "0:01:22",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:03 pm",
+        "End Time": "Apr 23 2025   02:07 pm",
+        "Duration": "0:04:17",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:12 pm",
+        "End Time": "Apr 23 2025   02:14 pm",
+        "Duration": "0:02:35",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:20 pm",
+        "End Time": "Apr 23 2025   02:24 pm",
+        "Duration": "0:03:15",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:34 pm",
+        "End Time": "Apr 23 2025   02:34 pm",
+        "Duration": "0:00:44",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:34 pm",
+        "End Time": "Apr 23 2025   03:25 pm",
+        "Duration": "0:50:25",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:18 pm",
+        "End Time": "Apr 23 2025   04:24 pm",
+        "Duration": "0:05:29",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:05 pm",
+        "End Time": "Apr 23 2025   05:08 pm",
+        "Duration": "0:02:24",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:13 pm",
+        "End Time": "Apr 23 2025   05:25 pm",
+        "Duration": "0:12:08",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:36 pm",
+        "End Time": "Apr 23 2025   06:44 pm",
+        "Duration": "0:07:05",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   07:32 pm",
+        "End Time": "Apr 23 2025   07:41 pm",
+        "Duration": "0:09:14",
+        "Disposition": "Break"
+      }
+    ],
+    "Agent Partial Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   03:27 pm",
+        "End Time": "Apr 23 2025   04:24 pm",
+        "Duration": "0:56:35",
+        "Queue": "Callback_CCS",
+        "Disposition": "Auto Paused"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:05 pm",
+        "End Time": "Apr 23 2025   06:44 pm",
+        "Duration": "0:39:01",
+        "Queue": "Callback_CCS",
+        "Disposition": "Auto Paused"
+      },
+      {
+        "Start Time": "Apr 23 2025   07:53 pm",
+        "End Time": false,
+        "Duration": "1:12:02",
+        "Queue": "Affiliate_Sales_Inbound",
+        "Disposition": "Not Specified"
+      }
+    ]
+  },
+  "aarevalo": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   11:13 am",
+        "End Time": "Apr 23 2025   03:10 pm",
+        "Duration": "3:56:52",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:10 pm",
+        "End Time": "Apr 23 2025   08:35 pm",
+        "Duration": "4:25:03",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   11:13 am",
+        "End Time": "Apr 23 2025   11:24 am",
+        "Duration": "0:10:46",
+        "Disposition": "Meeting"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:37 am",
+        "End Time": "Apr 23 2025   11:46 am",
+        "Duration": "0:08:50",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:52 am",
+        "End Time": "Apr 23 2025   01:56 pm",
+        "Duration": "2:03:24",
+        "Disposition": "Meeting"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:04 pm",
+        "End Time": "Apr 23 2025   02:17 pm",
+        "Duration": "0:13:29",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:22 pm",
+        "End Time": "Apr 23 2025   02:32 pm",
+        "Duration": "0:10:24",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:40 pm",
+        "End Time": "Apr 23 2025   02:43 pm",
+        "Duration": "0:02:59",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:55 pm",
+        "End Time": "Apr 23 2025   02:56 pm",
+        "Duration": "0:01:36",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   03:03 pm",
+        "End Time": "Apr 23 2025   03:10 pm",
+        "Duration": "0:06:39",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:10 pm",
+        "End Time": "Apr 23 2025   04:10 pm",
+        "Duration": "0:00:06"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:23 pm",
+        "End Time": "Apr 23 2025   04:32 pm",
+        "Duration": "0:09:28",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:38 pm",
+        "End Time": "Apr 23 2025   04:41 pm",
+        "Duration": "0:03:09",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:57 pm",
+        "End Time": "Apr 23 2025   05:00 pm",
+        "Duration": "0:02:46",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:41 pm",
+        "End Time": "Apr 23 2025   06:05 pm",
+        "Duration": "0:23:38",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:05 pm",
+        "End Time": "Apr 23 2025   06:31 pm",
+        "Duration": "0:26:10",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:54 pm",
+        "End Time": "Apr 23 2025   06:55 pm",
+        "Duration": "0:01:00",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   07:12 pm",
+        "End Time": "Apr 23 2025   07:28 pm",
+        "Duration": "0:15:48",
+        "Disposition": "Break"
+      }
+    ],
+    "Agent Partial Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   04:55 pm",
+        "End Time": "Apr 23 2025   05:00 pm",
+        "Duration": "0:04:35",
+        "Queue": "Callback_CCS",
+        "Disposition": "Auto Paused"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:50 pm",
+        "End Time": "Apr 23 2025   06:55 pm",
+        "Duration": "0:05:58",
+        "Queue": "Callback_CCS",
+        "Disposition": "Auto Paused"
+      }
+    ]
+  },
+  "sgarrido": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   11:37 am",
+        "End Time": "Apr 23 2025   06:17 pm",
+        "Duration": "6:40:08",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   11:37 am",
+        "End Time": "Apr 23 2025   11:38 am",
+        "Duration": "0:01:24",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:51 am",
+        "End Time": "Apr 23 2025   11:54 am",
+        "Duration": "0:02:59",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:54 am",
+        "End Time": "Apr 23 2025   11:57 am",
+        "Duration": "0:03:00",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   11:57 am",
+        "End Time": "Apr 23 2025   01:43 pm",
+        "Duration": "1:45:55",
+        "Disposition": "Meeting"
+      },
+      {
+        "Start Time": "Apr 23 2025   01:43 pm",
+        "End Time": "Apr 23 2025   02:06 pm",
+        "Duration": "0:22:43",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:18 pm",
+        "End Time": "Apr 23 2025   02:19 pm",
+        "Duration": "0:01:03",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:22 pm",
+        "End Time": "Apr 23 2025   02:32 pm",
+        "Duration": "0:10:14",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:32 pm",
+        "End Time": "Apr 23 2025   02:40 pm",
+        "Duration": "0:08:10",
+        "Disposition": "Meeting"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:41 pm",
+        "End Time": "Apr 23 2025   02:54 pm",
+        "Duration": "0:13:00",
+        "Disposition": "Meeting"
+      },
+      {
+        "Start Time": "Apr 23 2025   03:00 pm",
+        "End Time": "Apr 23 2025   03:02 pm",
+        "Duration": "0:01:35",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   03:31 pm",
+        "End Time": "Apr 23 2025   04:00 pm",
+        "Duration": "0:29:20",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:17 pm",
+        "End Time": "Apr 23 2025   04:24 pm",
+        "Duration": "0:07:27",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:09 pm",
+        "End Time": "Apr 23 2025   05:22 pm",
+        "Duration": "0:12:28",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:23 pm",
+        "End Time": "Apr 23 2025   05:37 pm",
+        "Duration": "0:13:37",
+        "Disposition": "Extra wrap up time"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:50 pm",
+        "End Time": "Apr 23 2025   06:09 pm",
+        "Duration": "0:19:18",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:13 pm",
+        "End Time": "Apr 23 2025   06:13 pm",
+        "Duration": "0:00:02",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:13 pm",
+        "End Time": "Apr 23 2025   06:17 pm",
+        "Duration": "0:03:56",
+        "Disposition": "Meeting"
+      }
+    ]
+  },
+  "kschonwandt": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   11:38 am",
+        "End Time": "Apr 23 2025   01:57 pm",
+        "Duration": "2:18:28",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   01:57 pm",
+        "End Time": "Apr 23 2025   02:44 pm",
+        "Duration": "0:47:13",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:44 pm",
+        "End Time": "Apr 23 2025   06:54 pm",
+        "Duration": "4:10:03",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:54 pm",
+        "End Time": "Apr 23 2025   06:55 pm",
+        "Duration": "0:00:37",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:55 pm",
+        "End Time": "Apr 23 2025   09:00 pm",
+        "Duration": "2:04:22",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   02:57 pm",
+        "End Time": "Apr 23 2025   03:20 pm",
+        "Duration": "0:23:01",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:44 pm",
+        "End Time": "Apr 23 2025   05:24 pm",
+        "Duration": "0:40:23",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:34 pm",
+        "End Time": "Apr 23 2025   06:42 pm",
+        "Duration": "0:07:58",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:56 pm",
+        "End Time": "Apr 23 2025   07:04 pm",
+        "Duration": "0:07:49",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   07:12 pm",
+        "End Time": "Apr 23 2025   07:29 pm",
+        "Duration": "0:16:37",
+        "Disposition": "Break"
+      }
+    ],
+    "Agent Partial Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   12:09 pm",
+        "End Time": "Apr 23 2025   03:20 pm",
+        "Duration": "3:10:50",
+        "Queue": "Sales_2_Inbound",
+        "Disposition": "Auto Paused"
+      },
+      {
+        "Start Time": "Apr 23 2025   12:11 pm",
+        "End Time": "Apr 23 2025   03:20 pm",
+        "Duration": "3:09:35",
+        "Queue": "Callback_CCS",
+        "Disposition": "Auto Paused"
+      }
+    ]
+  },
+  "jnunez": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   01:55 pm",
+        "End Time": "Apr 23 2025   07:34 pm",
+        "Duration": "5:38:30",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   02:54 pm",
+        "End Time": "Apr 23 2025   03:51 pm",
+        "Duration": "0:57:07",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:00 pm",
+        "End Time": "Apr 23 2025   04:00 pm",
+        "Duration": "0:00:04",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:02 pm",
+        "End Time": "Apr 23 2025   04:57 pm",
+        "Duration": "0:55:21",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:34 pm",
+        "End Time": "Apr 23 2025   06:35 pm",
+        "Duration": "0:00:25",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:35 pm",
+        "End Time": "Apr 23 2025   06:46 pm",
+        "Duration": "0:11:01",
+        "Disposition": "Break"
+      }
+    ]
+  },
+  "calvarez": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   01:59 pm",
+        "End Time": "Apr 23 2025   08:42 pm",
+        "Duration": "6:43:03",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   02:06 pm",
+        "End Time": "Apr 23 2025   02:13 pm",
+        "Duration": "0:06:34",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:17 pm",
+        "End Time": "Apr 23 2025   02:18 pm",
+        "Duration": "0:01:45",
+        "Disposition": "Taking another call"
+      },
+      {
+        "Start Time": "Apr 23 2025   02:55 pm",
+        "End Time": "Apr 23 2025   03:28 pm",
+        "Duration": "0:32:44",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:25 pm",
+        "End Time": "Apr 23 2025   04:29 pm",
+        "Duration": "0:03:33",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:41 pm",
+        "End Time": "Apr 23 2025   05:57 pm",
+        "Duration": "0:16:15",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:35 pm",
+        "End Time": "Apr 23 2025   06:35 pm",
+        "Duration": "0:00:01",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:53 pm",
+        "End Time": "Apr 23 2025   07:14 pm",
+        "Duration": "0:21:17",
+        "Disposition": "Break"
+      }
+    ]
+  },
+  "framirez": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": false,
+        "End Time": "Apr 23 2025   02:06 pm",
+        "Duration": "14:06:29",
+        "Disposition": "End of shift"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:25 pm",
+        "End Time": "Apr 23 2025   04:26 pm",
+        "Duration": "0:01:09",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:26 pm",
+        "End Time": "Apr 23 2025   04:28 pm",
+        "Duration": "0:02:23",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:58 pm",
+        "End Time": "Apr 23 2025   06:05 pm",
+        "Duration": "1:07:19",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:24 pm",
+        "End Time": "Apr 23 2025   06:32 pm",
+        "Duration": "0:07:24",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:36 pm",
+        "End Time": "Apr 23 2025   06:53 pm",
+        "Duration": "0:17:06",
+        "Disposition": "Not Specified"
+      }
+    ]
+  },
+  "aleon": {
+    "Agent Log Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   02:08 pm",
+        "End Time": "Apr 23 2025   02:08 pm",
+        "Duration": "0:00:05",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:56 pm",
+        "End Time": "Apr 23 2025   05:58 pm",
+        "Duration": "1:02:33",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   06:20 pm",
+        "End Time": "Apr 23 2025   07:56 pm",
+        "Duration": "1:36:09",
+        "Disposition": "Not Specified"
+      },
+      {
+        "Start Time": "Apr 23 2025   07:56 pm",
+        "End Time": "Apr 23 2025   08:02 pm",
+        "Duration": "0:05:51",
+        "Disposition": "Not Specified"
+      }
+    ],
+    "Agent Pause Time Detail Records": [
+      {
+        "Start Time": "Apr 23 2025   02:08 pm",
+        "End Time": "Apr 23 2025   02:08 pm",
+        "Duration": "0:00:03",
+        "Disposition": "Break"
+      },
+      {
+        "Start Time": "Apr 23 2025   04:56 pm",
+        "End Time": "Apr 23 2025   04:56 pm",
+        "Duration": "0:00:02"
+      },
+      {
+        "Start Time": "Apr 23 2025   05:03 pm",
+        "End Time": "Apr 23 2025   05:04 pm",
+        "Duration": "0:00:49",
+        "Disposition": "Meeting"
+      },
+      {
+        "Start Time": "Apr 23 2025   07:31 pm",
+        "End Time": "Apr 23 2025   07:34 pm",
+        "Duration": "0:03:26",
+        "Disposition": "Meeting"
+      }
+    ]
+  }
+}
