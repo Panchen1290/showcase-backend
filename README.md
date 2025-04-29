@@ -29,3 +29,17 @@ Once dependencies are installed, run the server with the following command:
 The server runs in port 3000 by default unless specified otherwise in a .env file
 
 `localhosthttp://localhost:8000`
+
+## Testing
+
+To test the API there is a postman json import file under
+
+`postman/Bluerock Showcase.postman_collection.json`
+
+To test the POST methods:
+
+The `api/reports/uploadAgentPerformance` method uses an Agent Performance Report in Excel (.xlsx) format.
+
+Likewise the `/api/reports/uploadLogtime ` method uses a Agent Log Time Report in Excel (.xlsx) format.
+
+Samples for this two report files can be found under the `upload-test-files` folder.
